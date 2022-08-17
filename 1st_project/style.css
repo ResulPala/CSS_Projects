@@ -1,0 +1,22 @@
+.mainHeader{
+    color: red;
+    font-size: 40;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.tabs{
+    color: aqua;
+    font-size: 30;
+    text-align: center;
+}
+
+#navMenu span{
+    margin: 1cm;
+}
+
+h2{
+    color: green;
+    font-size: 30;
+    text-align: center;
+}
